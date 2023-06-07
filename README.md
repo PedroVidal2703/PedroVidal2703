@@ -12,10 +12,10 @@
 
 <h1 align=center>:robot:&nbsp;Tech Stacks</h1>
 <p align=center>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-7D12FF?labelColor=000000&style=for-the-badge&logo=python" /></a>&nbsp;
-  <a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-7D12FF?labelColor=000000&style=for-the-badge&logo=angular" /></a>&nbsp;
-  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/-Flutter-7D12FF?labelColor=000000&style=for-the-badge&logo=flutter" /></a>&nbsp;
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-7D12FF?labelColor=000000&style=for-the-badge&logo=react" /></a>&nbsp;
-  <a href="https://github.com/torvalds/linux"><img src="https://img.shields.io/badge/-Linux-7D12FF?labelColor=000000&style=for-the-badge&logo=linux" /></a>&nbsp;
-  <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/-Godot Engine-7D12FF?labelColor=000000&style=for-the-badge&logo=godotengine" /></a>&nbsp;
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-FFFFFF?labelColor=000000&style=for-the-badge&logo=python" /></a>&nbsp;
+  <a href="https://angular.io/"><img src="https://img.shields.io/badge/-Angular-FFFFFF?labelColor=000000&style=for-the-badge&logo=angular" /></a>&nbsp;
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/-Flutter-FFFFFF?labelColor=000000&style=for-the-badge&logo=flutter" /></a>&nbsp;
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-FFFFFF?labelColor=000000&style=for-the-badge&logo=react" /></a>&nbsp;
+  <a href="https://github.com/torvalds/linux"><img src="https://img.shields.io/badge/-Linux-FFFFFF?labelColor=000000&style=for-the-badge&logo=linux" /></a>&nbsp;
+  <a href="https://godotengine.org/"><img src="https://img.shields.io/badge/-Godot Engine-FFFFFF?labelColor=000000&style=for-the-badge&logo=godotengine" /></a>&nbsp;
 </p>
